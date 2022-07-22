@@ -1,2 +1,2 @@
 # kottans-frontend
-##Git та GitHub
+## Git та GitHub
