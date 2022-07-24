@@ -8,4 +8,4 @@
 ![image git task2](https://github.com/vasylkomarnytskyi/kottans-frontend/blob/main/Git%20and%20%20GitHub/git_and_github_task_img2.png)
 
 ## Linux CLI, and HTTP
-![image linux course]()
+![image linux course](https://github.com/vasylkomarnytskyi/kottans-frontend/blob/main/task_linux_cli/linux_survival.png)
